@@ -12,3 +12,8 @@
 - [Units and silos](https://trvrs.co/journal/units-and-silos)
 - [Wheel of Life](https://www.cloresocialleadership.org.uk/community-resources/backpack/wheel-of-life)
 - [Creating public value through service design: Facilitation of human-centred service transformation in the city-state of Hamburg](https://www.theseus.fi/handle/10024/227264)
+
+
+# Read LIst
+## Things wot I've read, but might need to revisit/share
+- [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)

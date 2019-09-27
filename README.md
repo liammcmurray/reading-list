@@ -14,6 +14,6 @@
 - [Creating public value through service design: Facilitation of human-centred service transformation in the city-state of Hamburg](https://www.theseus.fi/handle/10024/227264)
 
 
-# Read LIst
+# Read List
 ## Things wot I've read, but might need to revisit/share
 - [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)

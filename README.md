@@ -21,6 +21,9 @@
 - https://www.userzoom.com/blog/what-metrics-do-the-experts-use-to-measure-ux-effectiveness/
 - https://uxstudioteam.com/ux-blog/measure-user-experience/
 - https://uxdesign.cc/measuring-and-quantifying-user-experience-8f555f07363d
+- https://usabilitygeek.com/combining-heart-framework-with-goals-signals-metrics-process-ux-metrics/
+- https://www.productplan.com/heart-framework-product-decisions/
+- https://medium.com/uxinthe6ix/how-we-used-the-heart-framework-to-set-the-right-ux-goals-4454df39db94
 
 # Read List
 ## Things wot I've read, but might need to revisit/share

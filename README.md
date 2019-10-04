@@ -26,5 +26,5 @@
 - https://medium.com/uxinthe6ix/how-we-used-the-heart-framework-to-set-the-right-ux-goals-4454df39db94
 
 # Read List
-## Things wot I've read, but might need to revisit/share
+## Things I've read, but might need to revisit/share
 - [Product vs. Feature Teams](https://svpg.com/product-vs-feature-teams/)
